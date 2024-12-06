@@ -26,7 +26,7 @@ Bu projede, foreach döngüsünün kullanımını öğrendim. Basit bir sınav s
 Bu projede, metotların kullanımını öğrendim. Geriye değer döndüren ve döndürmeyen metotlar oluşturarak, string ve int parametreleri ile işlemler yapmayı deneyimledim. Basit bir sınav sonuç uygulaması ile öğrendiklerimi pekiştirdim.
 
 ## 🎯 Proje 17: Entity Framework Metotları ve LINQ Sorguları
-Bu projede, Entity Framework metotları ve LINQ sorguları kullanarak, Windows Forms üzerinde dinamik veritabanı işlemleri gerçekleştirdim. Formda, panel ve label kontrolleriyle 12 farklı istatistik verisi sunulmaktadır. Veriler, veritabanından Entity Framework ile çekilmekte ve LINQ sorguları kullanılarak filtrelenmektedir. Uygulama, kullanıcı dostu bir arayüz sunarak, veritabanı işlemlerini verimli bir şekilde gerçekleştirmektedir.
+Bu projede, Windows Forms kullanarak tasarladığım bir formu görmektesiniz. Formda, panel ve label kontrolleriyle 12 farklı istatistik sunulmaktadır. İstatistik verileri, Entity Framework metotları ve LINQ sorguları kullanılarak veritabanından dinamik bir şekilde çekilmiştir. Uygulama, veritabanı işlemlerini ve veri filtrelemeyi verimli bir şekilde gerçekleştirirken, aynı zamanda kullanıcı dostu bir arayüz sunmak amacıyla optimize edilmiştir.
 ![Proje 17 Ekran Görüntüsü](https://raw.githubusercontent.com/sedaa0/CSharpEgitimKampi--MuratYucedag/main/3.case.png)
 
 
